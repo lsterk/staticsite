@@ -1,0 +1,5 @@
+# rendered site
+_site/
+
+# ruby
+vendor/
