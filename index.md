@@ -6,13 +6,7 @@ title: "Christmas Letter 2025"
 
 ---
 
-
-
-# Merry Christmas from Landon and Rae!
-
-
-
-We're grateful for a year filled with many beautiful moments. There are so many photos we wanted to share to tell you what did in 2025 - we hope you enjoy a little bit more detail of our year!
+<!-- Existing content remains unchanged -->
 
 ## April in Europe - Tulips and More!
 
@@ -27,3 +21,62 @@ One of the highlights for all of us was visiting the tulip fields in Keukenhof n
 ![Rae and her mom](assets/img/tulips/pair1.jpg)
 
 We give thanks for wonderful memories with our family this year.
+
+<!-- Swiper.js carousel structure moved to the bottom -->
+<div class="swiper">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide"><img src="assets/img/tulips/rae1.jpg" alt="Rae with the tulips"></div>
+    <div class="swiper-slide"><img src="assets/img/tulips/group1.jpg" alt="Our group"></div>
+    <div class="swiper-slide"><img src="assets/img/tulips/pair1.jpg" alt="Rae and her mom"></div>
+  </div>
+  <!-- Add navigation buttons -->
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const swiper = new Swiper('.swiper', {
+      loop: true,
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+    });
+  });
+</script>
+
+Here's another carousel with the items in reverse order:
+
+<div class="swiper tulip2">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide"><img src="assets/img/tulips/pair1.jpg" alt="Rae and her mom" tile="Wow they look great"></div>
+    <div class="swiper-slide"><img src="assets/img/tulips/group1.jpg" alt="Our group"></div>
+    <div class="swiper-slide"><img src="assets/img/tulips/rae1.jpg" alt="Rae with the tulips"></div>
+  </div>
+  <!-- Add navigation buttons -->
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const reverseSwiper = new Swiper('.tulip2', {
+      loop: true,
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+    });
+  });
+</script>
