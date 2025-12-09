@@ -43,8 +43,7 @@ In the rest of our letter, you can read all about our two international trips, k
 
 <a href="#year-in-pictures" class="jump-button">📷 Jump to our Year in Pictures 🖼️</a>
 
-## April in Europe - Tulips and More!
-
+## European Cities Trip
 Our first big trip of the year was a Spring Break tour in Europe, with stops in Amsterdam, Prague and Vienna. Last Christmas, we pitched the idea to Rae's family, and her parents joined us for the trek! We met up in Amsterdam, where we enjoyed walks along canals and cobblestone streets, visits to art museums, and a glorious performance of St Matthew's Passion the night before Easter. We also enjoyed a fabulous walk through the Keukenhof tulip garden, where we accomplished Rae's dream of seeing spring tulips in bloom. Landon was enthused to visit Delft, a city known for manufacturing blue and white porcelain, so we finally have some Dutch-style pottery in our house.
 
 <!-- Carousel: Amsterdam -->
@@ -53,20 +52,34 @@ Our first big trip of the year was a Spring Break tour in Europe, with stops in 
 Next, we flew to Prague to visit Lukas, who lived with the Gernant family in Iowa for a year during Rae's first year in college. Lukas showed us some of his favorite spots in the city and brought us to see postcard-worthy spots both on the tourist lists and local secrets. It was an incredible treat to have an architecture and urban planning expert as our guide to the city. We had so much fun with Lukas, and learned so much about Czech history and the fascinating stories of Prague's evolution over time.
 
 <!-- <photos from Prague> -->
+{% include swiper.html slides=site.data.carousels.prague extra_class="prague" %}
+
 
 We said goodbye to Lukas and Prague, and took a cozy train ride to Vienna through the beautiful Czech and Austrian countryside. Vienna's old city was charming, with cozy cafes for coffee and a towering cathedral over it all. Rainy weather sent us inside for most of the time, but we explored the Schӧnbrunn palace and took a self-guided street car tour of the city center! Food was the wurst (!) part - traditional Austrian fair offered many cozy dishes for the cold weather, and warm Apfelstrudel was an easy hit. On our last night in Europe, Landon and Rae attended a performance of Mozart's Magic Flute opera at the historic Vienna State Opera House; the only tickets available were in the standing-room "stehplatze", but seeing the inside of the opera house alone made standing all night worth it! Although we were exhausted by the finale, it was the perfect end to a whirlwind tour of April in Europe.
 
 <!-- <photos from Vienna> -->
+{% include swiper.html slides=site.data.carousels.vienna extra_class="vienna" %}
 
 
 
-## Kitchen
+## Kitchen Renovation
 
-Check out the before and after:
+In the summer, we checked off a very notable achievement: we renovated our kitchen! Considering how much time we spend cooking and baking, this was a long-awaited upgrade to our condo that has brought us much joy since its completion. Rae spent a lot of time early this year vision-boarding and she has a 30 page Google Doc to show for it. In the end, our finished kitchen isn’t too far off from the version of cobbled together screenshots.
+
+![Vision Board](assets/img/kitchen/vision_board_small.png)
+
+In the 5 years we lived in this condo, we’ve already had to replace the dishwasher and stove, so it was just the microwave that wasn’t stainless steel. The project was then refinishing our cabinets, replacing the grout-and-tile countertops with smooth quartz, and replacing the flooring.
+
+<!-- whole process carousel -->
+
+Landon started off the flooring renovation as a DIY job, but he quickly realized that he was out of his league and handed off the rest of the installation to professionals. We ended up getting the floor levelled as a result, which was an added perk.
 
 ![Before and after](assets/img/kitchen/Kitchen_Before_and_After.png)
 
-## Iceland
+Despite some delays along the way, we're really happy with our new space, which has made cooking and cleaning up more enjoyable.
+
+<!-- Need to add photo from now - clean the kitchen! -->
+## Iceland Trip
 In addition to seeing the tulips at Keukenhoff, Rae has dreamed of getting to see the Northern Lights. Once again having the week of Thanksgiving off for Rae’s work, we planned a trip to Iceland. Although it would be a quick trip to also try and make it home for Thanksgiving day, Iceland offered the perfect mix of moderate winter weather and relaxing activities to fill the short winter days. 
 
 On the first two nights, we had beautiful, starry, clear skies but no Northern Lights. We tried not to be too disappointed and crossed our fingers for the rest of our stay. On the third night, Landon woke Rae up around 1am and we shivered on the deck getting some nice pictures. We couldn’t see the lights with our eyes, but they were there! On our final night, the skies were cloudy and a multi-day snow storm had started. But around 3am, Landon woke up and saw the lights actually dancing across the sky before they hid back behind the clouds.
@@ -75,13 +88,21 @@ On the first two nights, we had beautiful, starry, clear skies but no Northern L
 
 
 Besides watching the auroras dance above our cabin, the highlights of our trip were:
-- Exploring ice caves on a glacier (Katla Geopark / Mýrdalsjökull glacier)
-- Going to a geothermal lagoon spa with a beautiful, sunset view 
-- Seeing majestic Icelandic waterfalls and geysers (Gullfoss / Geysir)
-- Exploring Icelandic cuisine (including a food tour walk in Reykjavik)
 
-<!-- Carousel: Iceland -->
-{% include swiper.html slides=site.data.carousels.iceland extra_class="iceland" %}
+{% include swiper.html slides=site.data.carousels.icecaves extra_class="icecaves" %}
+
+Exploring ice caves on a glacier (Katla Geopark / Mýrdalsjökull glacier)
+
+{% include swiper.html slides=site.data.carousels.lagoon extra_class="lagoon" %}
+Going to a geothermal lagoon spa with a beautiful, sunset view 
+
+{% include swiper.html slides=site.data.carousels.geysir extra_class="geysir" %}
+Seeing majestic Icelandic waterfalls and geysers (Gullfoss / Geysir)
+
+{% include swiper.html slides=site.data.carousels.iceland_food extra_class="icefood" %}
+
+Exploring Icelandic cuisine (including a food tour walk in Reykjavik)
+
 
 
 ## Year in Pictures

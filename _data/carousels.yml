@@ -7,7 +7,21 @@ amsterdam:
     alt: "Rae and her mom"
   - src: assets/img/vangogh_museum.jpg
     alt: "Van Gogh Museum"
-iceland:
+prague:
+  - src: assets/img/prague/bridge.jpg
+    alt: "Landon and Rae on the Legion Bridge"
+  - src: assets/img/prague/bridge_group.jpg
+    alt: "Our whole group on the Legion Bridge"
+  - src: assets/img/prague/park_hike.jpg
+    alt: "We hiked to a park with a great view of the city"
+  - src: assets/img/prague/clock.jpg
+    alt: "Rae and Becky waiting for the astronomical clock to strike"
+vienna:
+  - src: assets/img/vienna/sausage.jpg
+    alt: "Rae about to experience her first currywurst"
+  - src: assets/img/vienna/opera.jpg
+    alt: "Landon and Rae at the Vienna State Opera House"
+icecaves:
   - src: assets/img/iceland/caves1.jpg
     alt: "Walking on a glacier"
   - src: assets/img/iceland/caves2.jpg
@@ -16,3 +30,24 @@ iceland:
     alt: "Inside the glacier cave"
   - src: assets/img/iceland/secret_cave.jpg
     alt: "Seeeecreet tunnel"
+lagoon:
+  - src: assets/img/iceland/lagoon_sunset.jpg
+    alt: "Rae and Landon at sunset along the edge of the lagoon"
+  - src: assets/img/iceland/lagoon.jpg
+    alt: "Rae and Landon at Sky lagoon"
+geysir:
+  - src: assets/img/iceland/geysir_landscape.jpg
+    alt: "Geysir landscape"
+  - src: assets/img/iceland/geysir_selfie.jpg
+    alt: "Rae and Landon with the geyser"
+  - src: assets/img/iceland/gulfoss.jpg
+    alt: "Gullfoss waterfall"
+  - src: assets/img/iceland/gulfoss_selfie.jpg
+    alt: "Rae and Landon at Gullfoss waterfall"
+iceland_food:
+  - src: assets/img/iceland/hotdog.jpg
+    alt: "Icelandic hot dog during our food tour"
+  - src: assets/img/iceland/skyr.jpg
+    alt: "Rae and Landon enjoying Icelandic skyr yogurt after a tour"
+  - src: assets/img/iceland/rae_dinner.jpg
+    alt: "Rae during our Christmas dinner in Iceland"
