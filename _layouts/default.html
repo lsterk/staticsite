@@ -24,6 +24,35 @@
       border-radius: 8px;
     }
     h1 { text-align: center; }
+
+    /* Styling for the button that jumps to the year in photos 
+      TODO - figure out how to center the button on the page?
+    */
+    .jump-button {
+      /* Display & Sizing */
+      display: inline-block; /* Allows us to set padding and margin */
+      padding: 10px 20px;    /* Space inside the button */
+      margin: 20px 0;        /* Space above/below the button */
+
+      /* Appearance */
+      background-color: #257915; /* Blue background color */
+      color: white;              /* White text color */
+      text-decoration: none;     /* Removes the default underline from links */
+      border-radius: 5px;        /* Rounded corners */
+      font-weight: bold;         /* Make the text bold */
+      cursor: pointer;           /* Ensures the cursor is a hand icon on hover */
+      
+      /* Optional: Add a hover effect for better user experience */
+      transition: background-color 0.3s ease;
+    }
+
+    .jump-button:hover {
+      background-color: #0056b3; /* Darker blue when the user hovers over it */
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
   </style>
 </head>
 <body>

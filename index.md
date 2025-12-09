@@ -15,31 +15,33 @@ title: "Christmas Letter 2025"
 
 In the twelve months of 2025, 
 My true love enjoyed with me:
-TWELVE months of Landon’s freshly baked bread
-ELEVEN-ish barre classes Rae taught each month
-TEN great trips and visits from our family and best friends
-(especially this summer, 
-when you could find us in
-San Diego, Irvine, Bar Harbor, Lynden, and Seattle)
-NINE-ty year celebrations
-EIGHT batches of homemade yogurt 
-SEVEN Gernants/Sterks in Chicago
-(where we enjoyed Cubs games, Wait, Wait Don’t Tell Me live, and Kyra & Alec’s wedding)
-SIX live plays or musicals 
-FIVE times ten books and counting 
-(but more if you count Landon’s)
-FIVE years of marriage 
-FIVE years in our condo
-FOUR new countries visited 
-Except only THREE for Landon
-(because he pointed out he’s already been to Austria)
-TWO 30th birthdays
-and A lovely, long-awaited kitchen renovation   *insert piano flourish and final cord here*
+
+TWELVE months of Landon’s freshly baked bread  
+ELEVEN-ish barre classes Rae taught each month  
+TEN great trips and visits from our family and best friends  
+  (especially this summer,  
+  when you could find us in  
+  San Diego, Irvine, Bar Harbor, Lynden, and Seattle)  
+NINE-ty year celebrations  
+EIGHT batches of homemade yogurt  
+SEVEN Gernants/Sterks in Chicago  
+(where we enjoyed Cubs games, Wait, Wait Don’t Tell Me live, and Kyra & Alec’s wedding)  
+SIX live plays or musicals  
+FIVE times ten books and counting  
+(but more if you count Landon’s)  
+FIVE years of marriage  
+FIVE years in our condo  
+FOUR new countries visited  
+Except only THREE for Landon  
+  (because he pointed out he’s already been to Austria)  
+TWO 30th birthdays  
+and A lovely, long-awaited kitchen renovation   
+  *\*insert piano flourish and final cord here\**
 
 
 In the rest of our letter, you can read all about our two international trips, kitchen renovation, and Rae’s book recommendations. We also have a “Year in Pictures” section at the end as a reward for reading the whole letter (just kidding, feel free to skip to it!). As for all the other fun alluded to above, we’d love to catch up if you want the full scoop for everything we did.
 
-[Jump to our Year In Pictures](#year-in-pictures)
+<a href="#year-in-pictures" class="jump-button">📷 Jump to our Year in Pictures 🖼️</a>
 
 ## April in Europe - Tulips and More!
 
