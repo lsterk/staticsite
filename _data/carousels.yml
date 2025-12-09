@@ -1,0 +1,18 @@
+amsterdam:
+  - src: assets/img/tulips/rae1.jpg
+    alt: "Rae with the tulips"
+  - src: assets/img/tulips/group1.jpg
+    alt: "Our group"
+  - src: assets/img/tulips/pair1.jpg
+    alt: "Rae and her mom"
+  - src: assets/img/vangogh_museum.jpg
+    alt: "Van Gogh Museum"
+iceland:
+  - src: assets/img/iceland/caves1.jpg
+    alt: "Walking on a glacier"
+  - src: assets/img/iceland/caves2.jpg
+    alt: "The sun is rising!"
+  - src: assets/img/iceland/caves3.jpg
+    alt: "Inside the glacier cave"
+  - src: assets/img/iceland/secret_cave.jpg
+    alt: "Seeeecreet tunnel"

@@ -1,0 +1,33 @@
+{%- comment -%}
+Include: swiper.html
+Parameters:
+- slides: array of slide objects with `src` and `alt` (required)
+- extra_class: string (optional) additional class to add to wrapper
+- reverse: boolean or string 'true' to iterate slides in reverse
+
+Usage:
+`{% include swiper.html slides=site.data.carousels.amsterdam %}`
+`{% include swiper.html slides=site.data.carousels.iceland extra_class="iceland" %}`
+`{% include swiper.html slides=site.data.carousels.amsterdam reverse=true %}`
+{%- endcomment -%}
+
+<div class="swiper js-swiper{% if include.extra_class %} {{ include.extra_class }}{% endif %}">
+  <div class="swiper-wrapper">
+    {% if include.reverse == true or include.reverse == 'true' %}
+      {% for slide in include.slides reversed %}
+        <div class="swiper-slide">
+          <img src="{{ slide.src }}" alt="{{ slide.alt }}"{% if slide.title %} title="{{ slide.title }}"{% endif %}{% if slide.class %} class="{{ slide.class }}"{% endif %}>
+        </div>
+      {% endfor %}
+    {% else %}
+      {% for slide in include.slides %}
+        <div class="swiper-slide">
+          <img src="{{ slide.src }}" alt="{{ slide.alt }}"{% if slide.title %} title="{{ slide.title }}"{% endif %}{% if slide.class %} class="{{ slide.class }}"{% endif %}>
+        </div>
+      {% endfor %}
+    {% endif %}
+  </div>
+  <div class="swiper-button-next"></div>
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-pagination"></div>
+</div>
