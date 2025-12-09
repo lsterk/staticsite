@@ -103,6 +103,32 @@ Seeing majestic Icelandic waterfalls and geysers (Gullfoss / Geysir)
 
 Exploring Icelandic cuisine (including a food tour walk in Reykjavik)
 
+## Book Recommendations
+
+### Rae’s Top 3(ish) 
+- **_There Are Rivers in the Sky_ by Elif Shafak - Fiction**  
+If you take none of my other recommendations but you read this book I would be happy. This is arguably the best book I have read in 3 years. It is about water, which is to say it is about life. It is about being alone and being part of a bigger story. It is about religion, history, and the stories that get told. It is beautifully written and I wanted to start it again as soon as I finished it. (I never feel like that.) Go read it. 
+- **_Interpreter of Maladies_ by Jhumpa Lahiri - Short Story Collection**  
+This collection of intentionally-crafted stories might be the best I’ve read. I was impressed by the details in each story and the way “what happened” was told more through symbols and images than anything else. The ones I loved the most were: "A Temporary Matter," "A Real Durwan," and "The Third and Final Continent."
+- **_The Anxious Generation_ by Jonathan Haidt - Non-fiction**  
+This was big in 2024 when it came out, which is deserved. Everyone should read this. Mainly parents, educators, and everyone born after 1995. Our society has not been protecting kids online and not providing parents with needed support. I hope change comes quickly, but I appreciated that this book is not only identifying problems; Haidt has actual recommendations and advice, which I really appreciated. 
+- **Honorable Mention #1: _Say You’ll Remember Me_ by Abby Jimenez - Romance**  
+This book was so sweet and has so much going for it. Not least of which being that it gets Taylor Swift’s “Wildest Dreams” stuck in my head every time I see it. I liked that for this one it was always the situations and circumstances getting in their way. It felt different from romances where the problems involve seriously hurting each other, keeping secrets, or needing to work on themselves first. 
+- **Honorable Mention #2: _Finding Grace_ by Loretta Rothschild - Fiction**  
+Not a solid 5 star book, but an impressive debut novel that raises interesting ideas about motherhood, grief, and moving on. I went into it completely blind and I recommend it. The author’s poignant stylistic choices, especially the narrator, are the reason this book continues to rent space in my head. 
+
+### Rae’s Fantasy Top 5 
+As I tried to choose only my top 5 of the whole year, I realized that all the fantasy books below would be books #2-6. Since I wanted to mention more than just fantasy above, they got their own section :\)
+- **_The Rhythm of War_ by Brandon Sanderson**  
+You guys, this was the  t h i r d  time I started this book and I finally did it. It was also great. I really hesitated because I thought it would ruin my yearly book goal (and it only kind of did) but it was, in the end, worth it. I had a much better time here than book 3. I am so comfortable in this world and I need everyone else in my life to get in on this. 
+- **_Our Infinite Fates_ by Laura Steven**  
+Okay I loved reading this. It had that “all I want to do is read this book” energy I crave yet so rarely find. Time loop, curse, star-crossed lovers, *intrigue*... wow, for me, this book had it all. 
+- **_Heir_ by Sabaa Tahir** (author of The Ember in the Ashes series)  
+Oh my it felt so good to be reading Sabaa Tahir again. I truly do not know how she does it. Like Our Infinite Fates, this book was so fun to read. It’s set in the same world as the Ember quartet, which I read in 2022, and I’ve been searching for a fantasy series like it since. Reading Heir reminded me why nothing else has measured up. 
+- **_Earthseed_ duology by Octavia Butler** (Parable of the Sower and Parable of the Talents)  
+Considered a modern classic for a reason. I actually think everyone should read this series. And yes, I do think the second one is essential. After reading both, I cannot imagine only having read the first. 
+- **_Starling House_ by Alix E. Harrow**  
+Haunted houses and gothic stories are never my thing. BUT, this story, with its local legends and multi-generational injustices, was best told as a gothic, haunted house story. While not a “perfect” book, it gives the reader a lot to think about and lends itself well to discussion, making it a great book club book. 
 
 
 ## Year in Pictures
