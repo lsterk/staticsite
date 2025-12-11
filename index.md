@@ -84,8 +84,38 @@ In addition to seeing the tulips at Keukenhoff, Rae has dreamed of getting to se
 
 On the first two nights, we had beautiful, starry, clear skies but no Northern Lights. We tried not to be too disappointed and crossed our fingers for the rest of our stay. On the third night, Landon woke Rae up around 1am and we shivered on the deck getting some nice pictures. We couldn’t see the lights with our eyes, but they were there! On our final night, the skies were cloudy and a multi-day snow storm had started. But around 3am, Landon woke up and saw the lights actually dancing across the sky before they hid back behind the clouds.
 
-<video width="640" height="480" src="assets/img/iceland/aurora_video.mp4" frameborder="0" allowfullscreen autoplay controls loop></video>
+<div class="video-wrapper">
+  <video class="responsive-video" src="assets/img/iceland/aurora_video.mp4" controls loop playsinline muted autoplay></video>
+</div>
 
+<style>
+/* Responsive video styles (inline) */
+.video-wrapper {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.responsive-video {
+  width: 100%;
+  height: auto;
+  display: block;
+  max-width: 1440px; /* native video width as an upper bound */
+  background: black;
+  object-fit: contain;
+  aspect-ratio: 4 / 3;
+}
+
+/* Fallback for browsers that don't support aspect-ratio: use the padding-top technique */
+@supports not (aspect-ratio: 4/3) {
+  .video-wrapper { position: relative; padding-top: 75%; }
+  .responsive-video { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+}
+
+/* Ensure media query values include units if needed and avoid overflow on very small screens */
+@media (max-width: 420px) {
+  .responsive-video { max-width: 100%; }
+}
+</style>
 
 Besides watching the auroras dance above our cabin, the highlights of our trip were:
 
