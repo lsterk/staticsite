@@ -1,5 +1,9 @@
 title: "Christmas Card 2025"
 description: "Rae and Landon's 2025 Christmas Card"
+# The path your site is published at on GitHub Pages (e.g. /repo-name)
+baseurl: "/staticsite"
+# The base URL of your site (omit trailing slash)
+url: "https://lsterk.github.io"
 # remote_theme: pages-themes/cayman@v0.2.0
 remote_them: https://github.com/pages-themes/cayman.git
 plugins:

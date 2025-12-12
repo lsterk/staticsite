@@ -53,13 +53,13 @@ Next, we flew to Prague to visit Lukas, who lived with the Gernant family in Iow
 
 <!-- TODO - write more about Prague. This section is special since it's the time we had with Lukas! >
 
-<!-- <photos from Prague> -->
+<!-- photos from Prague -->
 {% include swiper.html slides=site.data.carousels.prague extra_class="prague" %}
 
 
 We said goodbye to Lukas and Prague, and took a cozy train ride to Vienna through the beautiful Czech and Austrian countryside. Vienna's old city was charming, with cozy cafes for coffee and a towering cathedral over it all. Rainy weather sent us inside for most of the time, but we explored the Schӧnbrunn palace and took a self-guided street car tour of the city center! Food was the wurst (!) part - traditional Austrian fair offered many cozy dishes for the cold weather, and warm Apfelstrudel was an easy hit. On our last night in Europe, Landon and Rae attended a performance of Mozart's Magic Flute opera at the historic Vienna State Opera House; the only tickets available were in the standing-room "stehplatze", but seeing the inside of the opera house alone made standing all night worth it! Although we were exhausted by the finale, it was the perfect end to a whirlwind tour of April in Europe.
 
-<!-- <photos from Vienna> -->
+<!-- photos from Vienna -->
 {% include swiper.html slides=site.data.carousels.vienna extra_class="vienna" %}
 
 
@@ -171,7 +171,7 @@ Haunted houses and gothic stories are never my thing. BUT, this story, with its 
   {% for img in site.static_files %}
     {% if img.path contains "/assets/img/miscrl/" %}
       <div class="grid-item">
-        <img src="{{ img.path }}" alt="">
+        <img src="{{ img.path | relative_url }}" alt="">
       </div>
     {% endif %}
   {% endfor %}
@@ -183,7 +183,7 @@ Rae's trip to Maine
   {% for img in site.static_files %}
     {% if img.path contains "/assets/img/maine/" %}
       <div class="grid-item">
-        <img src="{{ img.path }}" alt="">
+        <img src="{{ img.path | relative_url }}" alt="">
       </div>
     {% endif %}
   {% endfor %}
@@ -193,7 +193,7 @@ California friends and family:
   {% for img in site.static_files %}
     {% if img.path contains "/assets/img/cafriends/" %}
       <div class="grid-item">
-        <img src="{{ img.path }}" alt="">
+        <img src="{{ img.path | relative_url }}" alt="">
       </div>
     {% endif %}
   {% endfor %}
@@ -204,7 +204,7 @@ Seeing people we love:
   {% for img in site.static_files %}
     {% if img.path contains "/assets/img/friends/" %}
       <div class="grid-item">
-        <img src="{{ img.path }}" alt="">
+        <img src="{{ img.path | relative_url }}" alt="">
       </div>
     {% endif %}
   {% endfor %}
@@ -215,7 +215,7 @@ A whole section just for Kyra’s bachelorette and wedding (a HUGE part of Rae�
   {% for img in site.static_files %}
     {% if img.path contains "/assets/img/kwedding/" %}
       <div class="grid-item">
-        <img src="{{ img.path }}" alt="">
+        <img src="{{ img.path | relative_url }}" alt="">
       </div>
     {% endif %}
   {% endfor %}
@@ -225,7 +225,7 @@ Landon's cooking and baking endeavors
   {% for img in site.static_files %}
     {% if img.path contains "/assets/img/baking/" %}
       <div class="grid-item">
-        <img src="{{ img.path }}" alt="">
+        <img src="{{ img.path | relative_url }}" alt="">
       </div>
     {% endif %}
   {% endfor %}
