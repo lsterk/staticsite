@@ -70,11 +70,13 @@ In the summer, we checked off a very notable achievement: we renovated our kitch
 
 In the 5 years we lived in this condo, we’ve already had to replace the dishwasher and stove, so it was just the microwave that wasn’t stainless steel. The project was then refinishing our cabinets, replacing the grout-and-tile countertops with smooth quartz, and replacing the flooring.
 
-<!-- whole process carousel -->
+<!-- kitchen progression carousel -->
+{% include swiper.html slides=site.data.carousels.kitchen extra_class="kitchen" %}
+
 
 Landon started off the flooring renovation as a DIY job, but he quickly realized that he was out of his league and handed off the rest of the installation to professionals. We ended up getting the floor levelled as a result, which was an added perk.
 
-![Before and after](assets/img/kitchen/Kitchen_Before_and_After.png)
+![Before and after](assets/img/kitchen/kitchen_before_and_after.png)
 
 Despite some delays along the way, we're really happy with our new space, which has made cooking and cleaning up more enjoyable.
 

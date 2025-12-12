@@ -21,6 +21,23 @@ vienna:
     alt: "Rae about to experience her first currywurst"
   - src: assets/img/vienna/opera.jpg
     alt: "Landon and Rae at the Vienna State Opera House"
+kitchen:
+  - src: assets/img/kitchen/1.jpg
+    alt: "Kitchen March 22 - Before updates"
+  - src: assets/img/kitchen/2.jpg
+    alt: "June 18: New microwave and clean counters!"
+  - src: assets/img/kitchen/3.jpg
+    alt: "June 25: Cabinet faces removed, new end panels installed"
+  - src: assets/img/kitchen/4.jpg
+    alt: "July 2: New faces and drawers installed"
+  - src: assets/img/kitchen/5.jpg
+    alt: "July 3: New sink and faucet installed"
+  - src: assets/img/kitchen/6.jpg
+    alt: "July 4: Landon removed the vinyl flooring"
+  - src: assets/img/kitchen/7.jpg
+    alt: "July 8: Floors leveled"
+  - src: assets/img/kitchen/8.jpg
+    alt: "July 9: Nearly all done!"
 icecaves:
   - src: assets/img/iceland/caves1.jpg
     alt: "Walking on a glacier"
