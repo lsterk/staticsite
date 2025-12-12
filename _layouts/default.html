@@ -53,12 +53,31 @@
     html {
       scroll-behavior: smooth;
     }
+
+    .gallery {
+      width: 100%;
+      margin: 0 auto;
+    }
+
+    .grid-item {
+      width: 30%;               /* adjust for number of columns */
+      margin-bottom: 10px;
+    }
+
+    .grid-item img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 4px;
+    }
   </style>
 </head>
 <body>
   <!-- Add Swiper.js styles and scripts -->
   <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
   <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+  <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+  <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 
   {{ content }}
 </body>

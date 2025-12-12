@@ -51,6 +51,8 @@ Our first big trip of the year was a Spring Break tour in Europe, with stops in 
 
 Next, we flew to Prague to visit Lukas, who lived with the Gernant family in Iowa for a year during Rae's first year in college. Lukas showed us some of his favorite spots in the city and brought us to see postcard-worthy spots both on the tourist lists and local secrets. It was an incredible treat to have an architecture and urban planning expert as our guide to the city. We had so much fun with Lukas, and learned so much about Czech history and the fascinating stories of Prague's evolution over time.
 
+<!-- TODO - write more about Prague. This section is special since it's the time we had with Lukas! >
+
 <!-- <photos from Prague> -->
 {% include swiper.html slides=site.data.carousels.prague extra_class="prague" %}
 
@@ -165,6 +167,69 @@ Haunted houses and gothic stories are never my thing. BUT, this story, with its 
 
 ## Year in Pictures
 
+<div class="gallery">
+  {% for img in site.static_files %}
+    {% if img.path contains "/assets/img/miscrl/" %}
+      <div class="grid-item">
+        <img src="{{ img.path }}" alt="">
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+Rae's trip to Maine
+
+<div class="gallery">
+  {% for img in site.static_files %}
+    {% if img.path contains "/assets/img/maine/" %}
+      <div class="grid-item">
+        <img src="{{ img.path }}" alt="">
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+California friends and family:
+<div class="gallery">
+  {% for img in site.static_files %}
+    {% if img.path contains "/assets/img/cafriends/" %}
+      <div class="grid-item">
+        <img src="{{ img.path }}" alt="">
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+Seeing people we love:
+<div class="gallery">
+  {% for img in site.static_files %}
+    {% if img.path contains "/assets/img/friends/" %}
+      <div class="grid-item">
+        <img src="{{ img.path }}" alt="">
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+A whole section just for Kyra’s bachelorette and wedding (a HUGE part of Rae’s year)
+<div class="gallery">
+  {% for img in site.static_files %}
+    {% if img.path contains "/assets/img/kwedding/" %}
+      <div class="grid-item">
+        <img src="{{ img.path }}" alt="">
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+Landon's cooking and baking endeavors
+<div class="gallery">
+  {% for img in site.static_files %}
+    {% if img.path contains "/assets/img/baking/" %}
+      <div class="grid-item">
+        <img src="{{ img.path }}" alt="">
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
 Merry Christmas from Landon and Rae! ❤️🎄
 
 ![Merry Christmas from Landon and Rae](assets/img/merry_christmas.png)
@@ -173,6 +238,7 @@ Merry Christmas from Landon and Rae! ❤️🎄
 <!-- prime all of the swipers -->
 <script>
   document.addEventListener('DOMContentLoaded', function () {
+    // intialize swiper stuff
     document.querySelectorAll('.js-swiper').forEach(function (container) {
       new Swiper(container, {
         loop: true,
@@ -184,6 +250,17 @@ Merry Christmas from Landon and Rae! ❤️🎄
           el: container.querySelector('.swiper-pagination'),
           clickable: true,
         },
+      });
+    });
+    // initialize Masonry stuff
+    document.querySelectorAll('.gallery').forEach(function (grid) {
+        var msnry = new Masonry(grid, {
+        itemSelector: '.grid-item',
+        percentPosition: true
+      });
+      // Re-layout after each image loads
+      imagesLoaded(grid).on('progress', function () {
+        msnry.layout();
       });
     });
   });
