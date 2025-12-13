@@ -68,3 +68,105 @@ iceland_food:
     alt: "Rae and Landon enjoying Icelandic skyr yogurt after a tour"
   - src: assets/img/iceland/rae_dinner.jpg
     alt: "Rae during our Christmas dinner in Iceland"
+miscrl:
+  - src: assets/img/miscrl/11.jpg
+    alt: ""
+  - src: assets/img/miscrl/12.jpg
+    alt: ""
+  - src: assets/img/miscrl/13.jpg
+    alt: ""
+  - src: assets/img/miscrl/14.jpg
+    alt: ""
+  - src: assets/img/miscrl/15.jpg
+    alt: ""
+  - src: assets/img/miscrl/16.jpg
+    alt: ""
+  - src: assets/img/miscrl/17.jpg
+    alt: ""
+  - src: assets/img/miscrl/18.jpg
+    alt: ""
+  - src: assets/img/miscrl/19.jpg
+    alt: ""
+  - src: assets/img/miscrl/20.jpg
+    alt: ""
+  - src: assets/img/miscrl/21.jpg
+    alt: ""
+maine:
+  - src: assets/img/maine/1.jpg
+    alt: ""
+  - src: assets/img/maine/2.jpg
+    alt: ""
+  - src: assets/img/maine/3.jpg
+    alt: ""
+  - src: assets/img/maine/4.jpg
+    alt: ""
+  - src: assets/img/maine/5.jpg
+    alt: ""
+cafriends:
+  - src: assets/img/cafriends/1.jpg
+    alt: ""
+  - src: assets/img/cafriends/2.jpg
+    alt: ""
+  - src: assets/img/cafriends/3.jpg
+    alt: ""
+  - src: assets/img/cafriends/4.jpg
+    alt: ""
+  - src: assets/img/cafriends/5.jpg
+    alt: ""
+  - src: assets/img/cafriends/6.jpg
+    alt: ""
+  - src: assets/img/cafriends/7.jpg
+    alt: ""
+  - src: assets/img/cafriends/8.jpg
+    alt: ""
+  - src: assets/img/cafriends/9.jpg
+    alt: ""
+friends:
+  - src: assets/img/friends/1.jpg
+    alt: ""
+  - src: assets/img/friends/10.jpg
+    alt: ""
+  - src: assets/img/friends/2.MP.jpg
+    alt: ""
+  - src: assets/img/friends/3.jpeg
+    alt: ""
+  - src: assets/img/friends/4.jpg
+    alt: ""
+  - src: assets/img/friends/5.jpg
+    alt: ""
+  - src: assets/img/friends/6.jpg
+    alt: ""
+  - src: assets/img/friends/7.jpg
+    alt: ""
+  - src: assets/img/friends/8.jpg
+    alt: ""
+  - src: assets/img/friends/9.jpg
+    alt: ""
+kwedding:
+  - src: assets/img/kwedding/1.jpg
+    alt: ""
+  - src: assets/img/kwedding/2.jpg
+    alt: ""
+  - src: assets/img/kwedding/4.MP.jpg
+    alt: ""
+  - src: assets/img/kwedding/5.jpg
+    alt: ""
+  - src: assets/img/kwedding/6.jpg
+    alt: ""
+  - src: assets/img/kwedding/7.jpg
+    alt: ""
+  - src: assets/img/kwedding/8.jpg
+    alt: ""
+  - src: assets/img/kwedding/9.jpg
+    alt: ""
+baking:
+  - src: assets/img/baking/1.png
+    alt: ""
+  - src: assets/img/baking/2.jpg
+    alt: ""
+  - src: assets/img/baking/3.jpg
+    alt: ""
+  - src: assets/img/baking/4.jpg
+    alt: ""
+  - src: assets/img/baking/5.jpg
+    alt: ""

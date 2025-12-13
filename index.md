@@ -167,69 +167,22 @@ Haunted houses and gothic stories are never my thing. BUT, this story, with its 
 
 ## Year in Pictures
 
-<div class="gallery">
-  {% for img in site.static_files %}
-    {% if img.path contains "/assets/img/miscrl/" %}
-      <div class="grid-item">
-        <img src="{{ img.path | relative_url }}" alt="">
-      </div>
-    {% endif %}
-  {% endfor %}
-</div>
+{% include swiper.html slides=site.data.carousels.miscrl extra_class="miscrl" %}
 
 Rae's trip to Maine
 
-<div class="gallery">
-  {% for img in site.static_files %}
-    {% if img.path contains "/assets/img/maine/" %}
-      <div class="grid-item">
-        <img src="{{ img.path | relative_url }}" alt="">
-      </div>
-    {% endif %}
-  {% endfor %}
-</div>
+{% include swiper.html slides=site.data.carousels.maine extra_class="maine" %}
 California friends and family:
-<div class="gallery">
-  {% for img in site.static_files %}
-    {% if img.path contains "/assets/img/cafriends/" %}
-      <div class="grid-item">
-        <img src="{{ img.path | relative_url }}" alt="">
-      </div>
-    {% endif %}
-  {% endfor %}
-</div>
+{% include swiper.html slides=site.data.carousels.cafriends extra_class="cafriends" %}
 
 Seeing people we love:
-<div class="gallery">
-  {% for img in site.static_files %}
-    {% if img.path contains "/assets/img/friends/" %}
-      <div class="grid-item">
-        <img src="{{ img.path | relative_url }}" alt="">
-      </div>
-    {% endif %}
-  {% endfor %}
-</div>
+{% include swiper.html slides=site.data.carousels.friends extra_class="friends" %}
 
 A whole section just for Kyra’s bachelorette and wedding (a HUGE part of Rae’s year)
-<div class="gallery">
-  {% for img in site.static_files %}
-    {% if img.path contains "/assets/img/kwedding/" %}
-      <div class="grid-item">
-        <img src="{{ img.path | relative_url }}" alt="">
-      </div>
-    {% endif %}
-  {% endfor %}
-</div>
+{% include swiper.html slides=site.data.carousels.kwedding extra_class="kwedding" %}
 Landon's cooking and baking endeavors
 <div class="gallery">
-  {% for img in site.static_files %}
-    {% if img.path contains "/assets/img/baking/" %}
-      <div class="grid-item">
-        <img src="{{ img.path | relative_url }}" alt="">
-      </div>
-    {% endif %}
-  {% endfor %}
-</div>
+{% include swiper.html slides=site.data.carousels.baking extra_class="baking" %}
 Merry Christmas from Landon and Rae! ❤️🎄
 
 ![Merry Christmas from Landon and Rae](assets/img/merry_christmas.png)
