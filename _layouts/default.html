@@ -23,7 +23,14 @@
       max-width: 100%;
       border-radius: 8px;
     }
-    h1 { text-align: center; }
+    h1 { 
+      text-align: center;
+      /* color: #0a226e; */
+      color: #416598;
+     }
+     h3 {
+      color: #416598;
+     }
 
     /* Styling for the button that jumps to the year in photos 
       TODO - figure out how to center the button on the page?
@@ -35,7 +42,7 @@
       margin: 20px 0;        /* Space above/below the button */
 
       /* Appearance */
-      background-color: #257915; /* Blue background color */
+      background-color: #416598;
       color: white;              /* White text color */
       text-decoration: none;     /* Removes the default underline from links */
       border-radius: 5px;        /* Rounded corners */
@@ -47,38 +54,40 @@
     }
 
     .jump-button:hover {
-      background-color: #0056b3; /* Darker blue when the user hovers over it */
+      background-color: #31507c; /* Darker blue when the user hovers over it */
     }
 
     html {
       scroll-behavior: smooth;
     }
 
-    .gallery {
-      width: 100%;
-      margin: 0 auto;
+    .swiper-wrapper {
+      align-items: center;
+      /* justify-content: center; */
     }
 
-    .grid-item {
-      width: 30%;               /* adjust for number of columns */
-      margin-bottom: 10px;
+    .swiper-caption {
+      text-align: center;
+      padding-bottom: 0.3rem;
+      margin-bottom: 1.0rem; /* space between caption and pagination */
+      font-size: 0.9rem;
+      /* line-height: 0.5em; */
+      margin-top: 0.2em;
+      /* padding-top: 20px; */
+      /* color: #555; */
     }
 
-    .grid-item img {
-      width: 100%;
-      height: auto;
-      display: block;
-      border-radius: 4px;
+    /* Give the pagination/progress some breathing room from the caption */
+    .swiper-pagination {
+      margin-top: 0.5rem;
     }
+
   </style>
 </head>
 <body>
   <!-- Add Swiper.js styles and scripts -->
   <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
   <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
-  <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-  <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-
   {{ content }}
 </body>
 </html>

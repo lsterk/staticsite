@@ -1,70 +1,176 @@
 amsterdam:
-  - src: assets/img/tulips/rae1.jpg
-    alt: "Rae with the tulips"
-  - src: assets/img/tulips/group1.jpg
-    alt: "Our group"
-  - src: assets/img/tulips/pair1.jpg
-    alt: "Rae and her mom"
-  - src: assets/img/vangogh_museum.jpg
-    alt: "Van Gogh Museum"
+  - src: assets/img/amsterdam/rae1.jpg
+    caption: "Rae with the tulips at Keukenhof"
+  - src: assets/img/amsterdam/group1.jpg
+    caption: "We staged a quick photo between rain showers"
+  - src: assets/img/amsterdam/pair1.jpg
+    caption: "Rae and her mom"
+  - src: assets/img/amsterdam/landon_bike_cropped.jpg
+    caption: "Landon enjoyed a bike ride in the countryside north of the city"
+  - src: assets/img/amsterdam/vangogh_museum.jpg
+    caption: "After our visit to the Van Gogh Museum"
 prague:
   - src: assets/img/prague/bridge.jpg
-    alt: "Landon and Rae on the Legion Bridge"
+    caption: "The stunning Prague skyline"
   - src: assets/img/prague/bridge_group.jpg
-    alt: "Our whole group on the Legion Bridge"
+    caption: "Our whole group on the Legion Bridge"
   - src: assets/img/prague/park_hike.jpg
-    alt: "We hiked to a park with a great view of the city"
+    caption: "We hiked to a park with a great view of the city"
   - src: assets/img/prague/clock.jpg
-    alt: "Rae and Becky waiting for the astronomical clock to strike"
+    caption: "Rae and Becky waiting for the astronomical clock to strike"
 vienna:
   - src: assets/img/vienna/sausage.jpg
-    alt: "Rae about to experience her first currywurst"
+    caption: "Rae about to experience her first currywurst"
+  - src: assets/img/vienna/coffee.jpg
+    caption: "Cozy coffee at all hours of the day "
+  - src: assets/img/vienna/dinner.jpg
+    caption: "Dinner at a Beisl - taverns, Viennese style"
   - src: assets/img/vienna/opera.jpg
-    alt: "Landon and Rae at the Vienna State Opera House"
+    caption: "Landon and Rae at the Vienna State Opera House"
 kitchen:
-  - src: assets/img/kitchen/1.jpg
-    alt: "Kitchen March 22 - Before updates"
   - src: assets/img/kitchen/2.jpg
-    alt: "June 18: New microwave and clean counters!"
+    caption: "June 18: Work starts - Landon installs new microwave"
   - src: assets/img/kitchen/3.jpg
-    alt: "June 25: Cabinet faces removed, new end panels installed"
+    caption: "June 25: Cabinet faces removed, new end panels installed"
   - src: assets/img/kitchen/4.jpg
-    alt: "July 2: New faces and drawers installed"
+    caption: "July 2: New faces and drawers installed"
   - src: assets/img/kitchen/5.jpg
-    alt: "July 3: New sink and faucet installed"
+    caption: "July 3: New sink and faucet installed"
   - src: assets/img/kitchen/6.jpg
-    alt: "July 4: Landon removed the vinyl flooring"
+    caption: "July 4: Landon removed the vinyl flooring"
   - src: assets/img/kitchen/7.jpg
-    alt: "July 8: Floors leveled"
+    caption: "July 8: Floors leveled"
   - src: assets/img/kitchen/8.jpg
-    alt: "July 9: Nearly all done!"
+    caption: "July 9: Nearly all done!"
 icecaves:
-  - src: assets/img/iceland/caves1.jpg
-    alt: "Walking on a glacier"
   - src: assets/img/iceland/caves2.jpg
-    alt: "The sun is rising!"
+    caption: "Landon helping the sun rise in the morning!"
+  - src: assets/img/iceland/caves1.jpg
+    caption: "Walking on a glacier"
   - src: assets/img/iceland/caves3.jpg
-    alt: "Inside the glacier cave"
+    caption: "Inside the main glacier cave"
+  - src: assets/img/iceland/caves4.jpg
+    caption: "Bonus cave entrance, Landon included for scale"
   - src: assets/img/iceland/secret_cave.jpg
-    alt: "Seeeecreet tunnel"
-lagoon:
-  - src: assets/img/iceland/lagoon_sunset.jpg
-    alt: "Rae and Landon at sunset along the edge of the lagoon"
-  - src: assets/img/iceland/lagoon.jpg
-    alt: "Rae and Landon at Sky lagoon"
+    caption: "Seeeecret tunnel"
 geysir:
   - src: assets/img/iceland/geysir_landscape.jpg
-    alt: "Geysir landscape"
+    caption: "Biesi - a cute little geyser"
   - src: assets/img/iceland/geysir_selfie.jpg
-    alt: "Rae and Landon with the geyser"
+    caption: "Rae and Landon near the main geyser"
   - src: assets/img/iceland/gulfoss.jpg
-    alt: "Gullfoss waterfall"
-  - src: assets/img/iceland/gulfoss_selfie.jpg
-    alt: "Rae and Landon at Gullfoss waterfall"
+    caption: "Gullfoss waterfall - namesake of the Golden Circle"
+  - src: assets/img/iceland/waterfall.jpg
+    caption: "Þingvellir National Park had a smaller waterfall"
 iceland_food:
   - src: assets/img/iceland/hotdog.jpg
-    alt: "Icelandic hot dog during our food tour"
+    caption: "Icelandic hot dog during our food tour"
   - src: assets/img/iceland/skyr.jpg
-    alt: "Rae and Landon enjoying Icelandic skyr yogurt after a tour"
+    caption: "Rae and Landon enjoying Icelandic skyr yogurt after a tour"
   - src: assets/img/iceland/rae_dinner.jpg
-    alt: "Rae during our Christmas dinner in Iceland"
+    caption: "Rae during our Christmas dinner in Iceland"
+  - src: assets/img/iceland/soup.jpg
+    caption: "Soup in Vik after our glacier hike"
+miscrl:
+  - src: assets/img/miscrl/16.jpg
+    caption: "Enjoying the Ashland Shakespeare Festival"
+  - src: assets/img/miscrl/12.jpg
+    caption: "Celebrating our 5th wedding anniversary!"
+  - src: assets/img/miscrl/13.jpg
+    caption: "Stereophonix in San Francisco"
+  - src: assets/img/miscrl/14.jpg
+    caption: "Landon discovered how to make cold foam for coffee at home"
+  - src: assets/img/miscrl/15.jpg
+    caption: "Landon insisted on visiting the Boeing factory near Seattle"
+  - src: assets/img/miscrl/17.jpg
+    caption: "A bike ride to the San Jose Rose Garden"
+  - src: assets/img/miscrl/18.jpg
+    caption: "Checking off riding on the A350"
+  - src: assets/img/miscrl/19.jpg
+    caption: "Hiking - Landon with his new shirt"
+  - src: assets/img/miscrl/20.jpg
+    caption: "Portillo's in Chicago"
+  - src: assets/img/miscrl/21.jpg
+    caption: "Commmemorating Landon's first time at Wrigley Field"
+maine:
+  - src: assets/img/maine/1.jpg
+    caption: "When we thought we had reached the top of Bald Peak"
+  - src: assets/img/maine/2.jpg
+    caption: "When we <em>actually</em> reached the top of Bald Peak"
+  - src: assets/img/maine/3.jpg
+    caption: "We were so proud of ourselves"
+  - src: assets/img/maine/4.jpg
+    caption: "The lobster roll that changed Rae's life"
+  - src: assets/img/maine/5.jpg
+    caption: "4th of July pancake breakfast in Bar Harbor"
+cafriends:
+  - src: assets/img/cafriends/1.jpg
+    caption: "Christmas in the Park with Cam and Danae"
+  - src: assets/img/cafriends/2.jpg
+    caption: "Hiking with church friends"
+  - src: assets/img/cafriends/3.jpg
+    caption: "Rae taught a Barre class for friends from SJCS"
+  - src: assets/img/cafriends/4.jpg
+    caption: "Celebrating Jonathan's wedding with high school friends"
+  - src: assets/img/cafriends/5.jpg
+    caption: "More than one pesto pasta dinner with Letty"
+    alt: "Locanda Sorrento Campbell"
+  - src: assets/img/cafriends/6.jpg
+    caption: "Looking very athletic after our pickleball match"
+  - src: assets/img/cafriends/7.jpg
+    caption: "Dinner in San Francisco before <em>Les Miserables</em>"
+  - src: assets/img/cafriends/8.jpg
+    caption: "Landon and his dad at Campbell Oktoberfest"
+  - src: assets/img/cafriends/9.jpg
+    caption: "Making apple pies with Cam and Danae"
+friends:
+  - src: assets/img/friends/1.jpg
+    caption: "Rae and Kathryn in Sausalito"
+  - src: assets/img/friends/10.jpg
+    caption: "Cubs game with Kyra and Alec before their wedding"
+  - src: assets/img/friends/2.MP.jpg
+    caption: "Landon meets Sedona for the first time"
+  - src: assets/img/friends/3.jpeg
+    caption: "Rae and Sedona are almost matching!"
+  - src: assets/img/friends/4.jpg
+    caption: "Lynden Raspberry Festival - sundaes not pictured"
+  - src: assets/img/friends/5.jpg
+    caption: "Celebrating Landon's parents' 40th anniversary"
+  - src: assets/img/friends/6.jpg
+    caption: "Landon's Grandparents' 90th birthday party!"
+  - src: assets/img/friends/7.jpg
+    caption: "Blueberry picking in Lynden with Landon's family"
+  - src: assets/img/friends/8.jpg
+    caption: "Cubs game with the Gernant family"
+  - src: assets/img/friends/9.jpg
+    caption: "<em>Wait Wait Don't Tell Me</em> - live in downtown Chicago!"
+kwedding:
+  - src: assets/img/kwedding/1.jpg
+    caption: "Kayaking on Lake Union"
+  - src: assets/img/kwedding/2.jpg
+    caption: "At the Pike's Place Market"
+  - src: assets/img/kwedding/4.MP.jpg
+    caption: ""
+  - src: assets/img/kwedding/5.jpg
+    caption: "Chihuly Garden"
+  - src: assets/img/kwedding/6.jpg
+    caption: "Kyra's fall colors were perfect"
+  - src: assets/img/kwedding/7.jpg
+    caption: "The Gernant Girls"
+  - src: assets/img/kwedding/8.jpg
+    caption: "Rae's Day Ones"
+  - src: assets/img/kwedding/9.jpg
+    caption: "The Mother Daughter Book Club"
+baking:
+  - src: assets/img/baking/0.jpg
+    caption: "Homemade pizza!"
+  - src: assets/img/baking/1.jpg
+    caption: "A beautiful sourdough boule"
+  - src: assets/img/baking/2.jpg
+    caption: "Landon's current currant scones"
+  - src: assets/img/baking/3.jpg
+    caption: "Landon's biscuits and Becky's chipped beef"
+  - src: assets/img/baking/4.jpg
+    caption: "Sourdough the fun way (left) and the easy way (right)"
+  - src: assets/img/baking/5.jpg
+    caption: "Chocolate chip sourdough bread"
