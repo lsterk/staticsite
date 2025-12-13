@@ -181,7 +181,7 @@ Seeing people we love:
 A whole section just for Kyra’s bachelorette and wedding (a HUGE part of Rae’s year)
 {% include swiper.html slides=site.data.carousels.kwedding extra_class="kwedding" %}
 Landon's cooking and baking endeavors
-<div class="gallery">
+
 {% include swiper.html slides=site.data.carousels.baking extra_class="baking" %}
 Merry Christmas from Landon and Rae! ❤️🎄
 
@@ -203,19 +203,6 @@ Merry Christmas from Landon and Rae! ❤️🎄
           el: container.querySelector('.swiper-pagination'),
           clickable: true,
         },
-      });
-    });
-    // initialize Masonry stuff
-    document.querySelectorAll('.gallery').forEach(function (grid) {
-        var msnry = new Masonry(grid, {
-        itemSelector: '.grid-item',
-        // columnWidth: '.grid-item',
-        gutter: 2,
-        // percentPosition: true
-      });
-      // Re-layout after each image loads
-      imagesLoaded(grid).on('progress', function () {
-        msnry.layout();
       });
     });
   });
