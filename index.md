@@ -5,9 +5,9 @@ layout: default
 title: "Christmas Letter 2025"
 
 ---
-# Merry Christmas!
+# Rae and Landon's 2025
 
-![Rae and Landon in Amsterdam](assets/img/amsterdam_bicycle.jpg)
+![](assets/img/miscrl/11.jpg)
 
 2025 was such a FULL year! So much happened, in fact, that we are not even going to attempt to summarize the year chronologically. Instead, as an introduction to our 2025 letter, we have crafted a year in review that was inspired by our card design and is, loosely, set to the tune of “12 Days of Christmas." 
 
@@ -19,21 +19,21 @@ My true love enjoyed with me:
 TWELVE months of Landon’s freshly baked bread  
 ELEVEN-ish barre classes Rae taught each month  
 TEN great trips and visits from our family and best friends  
-  (especially this summer,  
-  when you could find us in  
-  San Diego, Irvine, Bar Harbor, Lynden, and Seattle)  
+&nbsp;&nbsp;_(especially this summer,_  
+&nbsp;&nbsp;_when you could find us in_  
+&nbsp;&nbsp;_San Diego, Irvine, Bar Harbor, Lynden, and Seattle)_  
 NINE-ty year celebrations  
 EIGHT batches of homemade yogurt  
 SEVEN Gernants/Sterks in Chicago  
-(where we enjoyed Cubs games, Wait, Wait Don’t Tell Me live, and Kyra & Alec’s wedding)  
+&nbsp;&nbsp;_(where we enjoyed Cubs games,_ Wait, Wait Don’t Tell Me _live, and Kyra & Alec’s wedding)_  
 SIX live plays or musicals  
 FIVE times ten books and counting  
-(but more if you count Landon’s)  
+&nbsp;&nbsp;_(but more if you count Landon’s)_  
 FIVE years of marriage  
 FIVE years in our condo  
 FOUR new countries visited  
 Except only THREE for Landon  
-  (because he pointed out he’s already been to Austria)  
+&nbsp;&nbsp;_(because he pointed out he’s already been to Austria)_  
 TWO 30th birthdays  
 and A lovely, long-awaited kitchen renovation   
   *\*insert piano flourish and final cord here\**
@@ -41,10 +41,16 @@ and A lovely, long-awaited kitchen renovation
 
 In the rest of our letter, you can read all about our two international trips, kitchen renovation, and Rae’s book recommendations. We also have a “Year in Pictures” section at the end as a reward for reading the whole letter (just kidding, feel free to skip to it!). As for all the other fun alluded to above, we’d love to catch up if you want the full scoop for everything we did.
 
-<a href="#year-in-pictures" class="jump-button">📷 Jump to our Year in Pictures 🖼️</a>
+<a href="#year-in-pictures" class="jump-button">⬇️ Jump to our Year in Pictures 📷</a>
+
+{% include swiper.html slides=site.data.carousels.miscrl extra_class="miscrl" %}
 
 ## European Cities Trip
-Our first big trip of the year was a Spring Break tour in Europe, with stops in Amsterdam, Prague and Vienna. Last Christmas, we pitched the idea to Rae's family, and her parents joined us for the trek! We met up in Amsterdam, where we enjoyed walks along canals and cobblestone streets, visits to art museums, and a glorious performance of St Matthew's Passion the night before Easter. We also enjoyed a fabulous walk through the Keukenhof tulip garden, where we accomplished Rae's dream of seeing spring tulips in bloom. Landon was enthused to visit Delft, a city known for manufacturing blue and white porcelain, so we finally have some Dutch-style pottery in our house.
+Our first big trip of the year was a Spring Break tour in Europe, with stops in Amsterdam, Prague and Vienna. Last Christmas, we pitched the idea to Rae's family, and her parents joined us for the trek!
+
+![A classic canal photo](assets/img/amsterdam/bike_bridge.jpg)
+
+We met up in Amsterdam, where we enjoyed walks along canals and cobblestone streets, visits to art museums, and a glorious performance of St Matthew's Passion the night before Easter. We also enjoyed a fabulous walk through the Keukenhof tulip garden, where we accomplished Rae's dream of seeing spring tulips in bloom. Landon was enthused to visit Delft, a city known for manufacturing blue and white porcelain, so we finally have some Dutch-style pottery in our house.
 
 <!-- Carousel: Amsterdam -->
 {% include swiper.html slides=site.data.carousels.amsterdam %}
@@ -79,6 +85,26 @@ In the 5 years we lived in this condo, we’ve already had to replace the dishwa
 Landon started off the flooring renovation as a DIY job, but he quickly realized that he was out of his league and handed off the rest of the installation to professionals. We ended up getting the floor levelled as a result, which was an added perk.
 
 ![Before and after](assets/img/kitchen/kitchen_before_and_after.png)
+<div class="row-flex">
+  <div class="column-flex">
+    <p><strong>Before - April 2020</strong></p>
+  </div>
+  <div class="column-flex">
+    <p><strong>After - July 2025</strong></p>
+  </div>
+</div>
+<style>
+  .row-flex {
+  display: flex; /* Activates Flexbox layout for the container */
+  gap: 20px;     /* Adds space between the columns */
+}
+
+.column-flex {
+  flex: 50%;     /* Each column takes up 50% of the available space */
+  padding: 10px;
+}
+</style>
+
 
 Despite some delays along the way, we're really happy with our new space, which has made cooking and cleaning up more enjoyable.
 
@@ -123,19 +149,19 @@ On the first two nights, we had beautiful, starry, clear skies but no Northern L
 
 Besides watching the auroras dance above our cabin, the highlights of our trip were:
 
+### Exploring ice caves on a glacier (Katla Geopark / Mýrdalsjökull glacier)
+
 {% include swiper.html slides=site.data.carousels.icecaves extra_class="icecaves" %}
 
-Exploring ice caves on a glacier (Katla Geopark / Mýrdalsjökull glacier)
+### Soaking at Sky Lagoon, a geothermal spa with a beautiful, sunset view 
+![Rae and Landon at sunset along the edge of the lagoon](assets/img/iceland/lagoon.jpg)
 
-{% include swiper.html slides=site.data.carousels.lagoon extra_class="lagoon" %}
-Going to a geothermal lagoon spa with a beautiful, sunset view 
-
+### Seeing majestic Icelandic waterfalls and geysers
 {% include swiper.html slides=site.data.carousels.geysir extra_class="geysir" %}
-Seeing majestic Icelandic waterfalls and geysers (Gullfoss / Geysir)
 
+### Exploring Icelandic cuisine (including a food tour walk in Reykjavik)
 {% include swiper.html slides=site.data.carousels.iceland_food extra_class="icefood" %}
 
-Exploring Icelandic cuisine (including a food tour walk in Reykjavik)
 
 ## Book Recommendations
 
@@ -167,21 +193,17 @@ Haunted houses and gothic stories are never my thing. BUT, this story, with its 
 
 ## Year in Pictures
 
-{% include swiper.html slides=site.data.carousels.miscrl extra_class="miscrl" %}
-
-Rae's trip to Maine
-
-{% include swiper.html slides=site.data.carousels.maine extra_class="maine" %}
-California friends and family:
+### Our life in California (hanging out with family and friends):
 {% include swiper.html slides=site.data.carousels.cafriends extra_class="cafriends" %}
 
-Seeing people we love:
+### Visits to and from people we love:
 {% include swiper.html slides=site.data.carousels.friends extra_class="friends" %}
 
-A whole section just for Kyra’s bachelorette and wedding (a HUGE part of Rae’s year)
+### Rae's trip to Maine
+{% include swiper.html slides=site.data.carousels.maine extra_class="maine" %}
+### A whole section just for Kyra’s bachelorette and wedding (a HUGE part of Rae’s year)
 {% include swiper.html slides=site.data.carousels.kwedding extra_class="kwedding" %}
-Landon's cooking and baking endeavors
-
+### Landon's cooking and baking endeavors
 {% include swiper.html slides=site.data.carousels.baking extra_class="baking" %}
 Merry Christmas from Landon and Rae! ❤️🎄
 
