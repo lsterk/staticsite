@@ -13,19 +13,12 @@ Usage:
 
 <div class="swiper js-swiper{% if include.extra_class %} {{ include.extra_class }}{% endif %}">
   <div class="swiper-wrapper">
-    {% if include.reverse == true or include.reverse == 'true' %}
-      {% for slide in include.slides reversed %}
-        <div class="swiper-slide">
-          <img src="{{ slide.src }}" alt="{{ slide.alt }}"{% if slide.title %} title="{{ slide.title }}"{% endif %}{% if slide.class %} class="{{ slide.class }}"{% endif %}>
-        </div>
-      {% endfor %}
-    {% else %}
-      {% for slide in include.slides %}
-        <div class="swiper-slide">
-          <img src="{{ slide.src }}" alt="{{ slide.alt }}"{% if slide.title %} title="{{ slide.title }}"{% endif %}{% if slide.class %} class="{{ slide.class }}"{% endif %}>
-        </div>
-      {% endfor %}
-    {% endif %}
+    {% for slide in include.slides %}
+      <div class="swiper-slide">
+        <img src="{{ slide.src }}" alt="{{ slide.alt or slide.caption }}"{% if slide.title %} title="{{ slide.title }}"{% endif %}{% if slide.class %} class="{{ slide.class }}"{% endif %}>
+        <div class="swiper-caption">{{ slide.caption }}</div>
+      </div>
+    {% endfor %}
   </div>
   <div class="swiper-button-next"></div>
   <div class="swiper-button-prev"></div>
