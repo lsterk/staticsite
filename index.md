@@ -256,7 +256,9 @@ Merry Christmas from Landon and Rae! ❤️🎄
     document.querySelectorAll('.gallery').forEach(function (grid) {
         var msnry = new Masonry(grid, {
         itemSelector: '.grid-item',
-        percentPosition: true
+        // columnWidth: '.grid-item',
+        gutter: 2,
+        // percentPosition: true
       });
       // Re-layout after each image loads
       imagesLoaded(grid).on('progress', function () {
