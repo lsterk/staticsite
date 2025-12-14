@@ -5,6 +5,9 @@ layout: default
 title: "Christmas Letter 2025"
 
 ---
+<head>
+  <meta property="og:image" content="assets/img/preview.jpg" />
+</head>
 # Rae and Landon's 2025
 
 ![](assets/img/miscrl/11.jpg)
@@ -13,7 +16,7 @@ title: "Christmas Letter 2025"
 
 **Rae and Landon’s Twelve Months of 2025**
 
-In the twelve months of 2025, 
+In the twelve months of 2025,  
 My true love enjoyed with me:
 
 TWELVE months of Landon’s freshly baked bread  
@@ -22,10 +25,12 @@ TEN great trips and visits from our family and best friends
 &nbsp;&nbsp;_(especially this summer,_  
 &nbsp;&nbsp;_when you could find us in_  
 &nbsp;&nbsp;_San Diego, Irvine, Bar Harbor, Lynden, and Seattle)_  
-NINE-ty year celebrations  
+NINE-ty year celebration  
 EIGHT batches of homemade yogurt  
 SEVEN Gernants/Sterks in Chicago  
-&nbsp;&nbsp;_(where we enjoyed Cubs games,_ Wait, Wait Don’t Tell Me _live, and Kyra & Alec’s wedding)_  
+&nbsp;&nbsp;_(where we enjoyed Cubs games,_  
+&nbsp;&nbsp;Wait, Wait Don’t Tell Me _live,  
+&nbsp;&nbsp;and Kyra & Alec’s wedding)_  
 SIX live plays or musicals  
 FIVE times ten books and counting  
 &nbsp;&nbsp;_(but more if you count Landon’s)_  
@@ -39,7 +44,7 @@ and A lovely, long-awaited kitchen renovation
   *\*insert piano flourish and final cord here\**
 
 
-In the rest of our letter, you can read all about our two international trips, kitchen renovation, and Rae’s book recommendations. We also have a “Year in Pictures” section at the end as a reward for reading the whole letter (just kidding, feel free to skip to it!). As for all the other fun alluded to above, we’d love to catch up if you want the full scoop for everything we did.
+In the rest of our letter, you can read all about our two international trips, kitchen renovation, and Rae’s book recommendations. We also have a “Year in Pictures” section at the end as a reward for reading the whole letter (just kidding, feel free to skip to it!) As for all the other fun alluded to above, we’d love to catch up if you want the full scoop for everything we did.
 
 <a href="#year-in-pictures" class="jump-button">⬇️ Jump to our Year in Pictures 📷</a>
 
